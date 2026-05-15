@@ -1,0 +1,2 @@
+# Exercício 4
+print("Erro: criar um arquivo chamado math.py conflita com o modulo padrao math do Python. Ao executar 'import math', o Python encontra o arquivo local math.py e nao o modulo padrao, causando erros pois as funcoes esperadas nao existem.")
