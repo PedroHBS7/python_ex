@@ -1,6 +1,6 @@
 # TDE GitHub
 
-Projeto desenvolvido para a atividade TDE 1 da disciplina de desenvolvimento de software.
+Projeto desenvolvido para a atividade TDE 1 da disciplina de Raciocínio Algorítimco.
 
 ## Objetivo
 
