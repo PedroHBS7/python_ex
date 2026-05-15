@@ -22,7 +22,7 @@ Aprender os conceitos básicos de versionamento utilizando Git e GitHub, aplican
 
 ## Comandos utilizados
 
--git init
--git add .
--git commit
--git push
+- git init
+- git add
+- git commit
+- git push
