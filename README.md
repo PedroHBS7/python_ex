@@ -19,3 +19,10 @@ Aprender os conceitos básicos de versionamento utilizando Git e GitHub, aplican
 - Git
 - GitHub
 - Visual Studio Code
+
+## Comandos utilizados
+
+-git init
+-git add .
+-git commit
+-git push
