@@ -1,1 +1,25 @@
 Exercícios de matrizes realizados durante a aula.
+
+Neste material foi ensinado o conceito de matrizes em Python, mostrando como representar dados em estruturas bidimensionais compostas por linhas e colunas. As matrizes foram apresentadas como ferramentas importantes utilizadas em áreas como matemática, computação, física, engenharia e processamento de imagens.
+
+O conteúdo demonstrou diferentes aplicações das matrizes, como:
+
+Representação de notas de alunos em tabelas;
+Representação de imagens através de pixels;
+Armazenamento de coordenadas no plano cartesiano;
+Resolução de sistemas lineares.
+
+Também foi introduzida a biblioteca NumPy, utilizada para manipulação eficiente de matrizes e arrays multidimensionais em Python. Foram apresentados comandos para:
+
+Criar matrizes com np.array;
+Gerar matrizes de zeros, uns e identidade;
+Manipular dados numéricos de forma otimizada.
+
+Além disso, o material explicou diversas operações com matrizes, incluindo:
+
+Adição e subtração de matrizes;
+Multiplicação por escalar;
+Multiplicação entre matrizes;
+Matriz transposta;
+Determinante e matriz inversa;
+Cálculo de média e desvio padrão dos elementos.
