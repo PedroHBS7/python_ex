@@ -1,1 +1,39 @@
 Exercícios de imports realizados durante a aula.
+
+Neste material foi ensinado o conceito de imports em Python, mostrando como reutilizar códigos de outros arquivos e módulos dentro de um programa. Foi explicado que o comando import permite utilizar funções, classes e variáveis já existentes, evitando repetição de código e facilitando a organização dos projetos.
+
+O conteúdo abordou diferentes formas de importação, incluindo:
+
+Importação de módulos completos;
+Importação de funções específicas;
+Uso de aliases (apelidos técnicos);
+Importação de todos os elementos públicos de um módulo com import *.
+
+Também foram apresentados os problemas do uso de import *, destacando:
+
+Poluição de namespace;
+Conflito de nomes;
+Código menos legível;
+Maior dificuldade de manutenção;
+Não recomendação pelas boas práticas do Python e pela PEP 8.
+
+Além disso, o material explicou como importar arquivos criados pelo próprio programador e apresentou erros comuns relacionados a imports, como:
+
+Nome de arquivo incorreto;
+Arquivos fora da mesma pasta;
+Arquivos não salvos;
+Conflito de nomes com bibliotecas do Python.
+
+Outro tema importante abordado foi a boa prática do uso de:
+
+if __name__ == "__main__":
+
+explicando que esse bloco é executado apenas quando o arquivo é executado diretamente, evitando execuções indesejadas ao importar módulos.
+
+O material também apresentou algumas bibliotecas padrão úteis do Python, como:
+
+math para operações matemáticas;
+random para aleatoriedade;
+datetime para datas e horários;
+os para interação com o sistema operacional;
+além de citar bibliotecas externas instaladas com pip install
