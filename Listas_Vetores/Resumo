@@ -1,1 +1,23 @@
 Exercícios de Listas e Vetores realizados durante a aula.
+
+Neste material foi ensinado o conceito de listas e vetores em Python, mostrando como armazenar vários valores em uma única estrutura de dados. Foram apresentados exemplos práticos utilizando listas para cadastrar nomes de alunos, armazenar números e manipular dados dinamicamente.
+
+Também foi explicado que:
+
+Uma lista é um conjunto ordenado de elementos;
+Os elementos são acessados por índices, que começam em 0;
+As listas podem armazenar diferentes tipos de dados;
+O tamanho da lista pode aumentar ou diminuir durante a execução do programa.
+
+O conteúdo abordou:
+
+Criação de listas vazias e listas com valores;
+Uso de range() para gerar listas sequenciais;
+Listas aninhadas;
+Acesso aos elementos por índice;
+Percorrer listas utilizando for e while;
+Alteração de valores dentro da lista;
+Adição de elementos com append();
+Remoção de elementos com remove(), del e pop();
+Uso da função len() para descobrir o tamanho da lista;
+Uso das funções min() e max() para encontrar menor e maior valor.
