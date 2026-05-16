@@ -1,1 +1,36 @@
 Exercícios de funções realizados durante a aula.
+
+Neste material foi ensinado o conceito de funções em Python, mostrando como utilizar blocos de código reutilizáveis para executar tarefas específicas, evitando repetição e deixando os programas mais organizados. Também foi apresentada a utilização da palavra-chave def para definir funções, além do uso de parâmetros e argumentos.
+
+O conteúdo abordou o funcionamento do comando return, explicando que ele:
+
+Define o valor retornado pela função;
+Encerra a execução da função;
+Pode retornar diferentes tipos de dados, como números, textos, listas e dicionários;
+Permite retornar múltiplos valores ao mesmo tempo.
+
+Também foram apresentados conceitos relacionados aos parâmetros das funções, incluindo:
+
+Múltiplos parâmetros;
+Argumentos posicionais;
+Argumentos nomeados (keyword arguments);
+Parâmetros com valores padrão;
+Diferença entre parâmetros obrigatórios e opcionais.
+
+Além disso, o material explicou o uso de:
+
+*args, utilizado para receber vários argumentos posicionais;
+**kwargs, utilizado para receber argumentos nomeados em formato de dicionário;
+Casos em que cada um deve ser utilizado.
+
+Outro tema abordado foi o escopo de variáveis, diferenciando:
+
+Variáveis locais, criadas dentro das funções;
+Variáveis globais, criadas fora das funções.
+
+O material também mostrou que funções podem ser tratadas como objetos em Python, podendo:
+
+Ser armazenadas em variáveis;
+Ser passadas como parâmetro para outras funções.
+
+Foram introduzidas ainda as funções lambda, utilizadas para criar funções anônimas e simples em apenas uma linha, muito comuns com map() e filter()
